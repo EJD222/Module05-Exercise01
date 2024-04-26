@@ -1,0 +1,16 @@
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\Module05Forms.deps.json
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\Module05Forms.dll
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\ref\Module05Forms.dll
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\bin\Debug\netstandard2.0\Module05Forms.pdb
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.csproj.AssemblyReference.cache
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\PersonalInfoPage.xaml.g.cs
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.AssemblyInfoInputs.cache
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.AssemblyInfo.cs
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.csproj.CoreCompileInputs.cache
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.dll
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\refint\Module05Forms.dll
+D:\PC\Coding Grinds\Repositories\Module05Forms\Module05Forms\Module05Forms\obj\Debug\netstandard2.0\Module05Forms.pdb
